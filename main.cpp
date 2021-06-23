@@ -3,6 +3,7 @@
 #include "ex2.h"
 #include "ex3.h"
 #include "jrasband.h"
+#include "david.h"
 
 int main()
 {
@@ -10,5 +11,6 @@ int main()
     printJess();
     creditJRasband();
     myMom();
+    creditdavid();
     return 0;
 }
