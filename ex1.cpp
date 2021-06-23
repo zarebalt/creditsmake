@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "ex1.h"
 
-void demoFunction()
+void printBob()
 {
-    printf("Hello World from function\n");
+    printf("Bob Contributed to this project\n");
 }

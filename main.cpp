@@ -3,8 +3,6 @@
 
 int main()
 {
-    printf("Hello World\n");
-
-    demoFunction();
+    printBob();
     return 0;
 }
